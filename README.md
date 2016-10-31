@@ -22,8 +22,10 @@ NOT SUPPORTS YET. ~~Go to "https://play.google.com/store/apps" and search "Raven
 ## Development setup (Contributing)
 
 #### IDE
-* [Android Studio 2.2](https://developer.android.com/studio/index.html)
-* [Java SE 8u101](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* Android Studio 2.2.2
+* Build #AI-145.3360264, built on October 18, 2016
+* JRE: 1.8.0_112-release-b05 x86_64
+* JVM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
  
 #### APIs
 * Firebase > [Console](https://console.firebase.google.com)
@@ -117,9 +119,12 @@ NOT SUPPORTS YET. ~~Go to "https://play.google.com/store/apps" and search "Raven
 ## Version
 
 * 0.0.2
-  * 2016-10-31: Gradle update for Firebase 9.8.0
+  * 2016-10-31: 
+    * Gradle update for Firebase 9.8.0
+    * Update IDE: Android Studio 2.2 -> 2.2.2
 * 0.0.1
-  * 2016-09-21: Work in progress
+  * 2016-09-21: 
+    * Work in progress
 
 
 
