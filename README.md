@@ -39,6 +39,9 @@ NOT SUPPORTS YET. ~~Go to "https://play.google.com/store/apps" and search "Raven
       * **Package name** is found under Project view in Android Studio in the following directory:
       * app > src > build.gradle under applicationId
     * Obtaining SHA1 key
+      * Firebase Console -> Raven -> Project Settings -> General -> Your apps -> Raven Android -> ADD FINGERPRINT
+      * https://developers.google.com/android/guides/client-auth
+      
       * Type in Terminal:
       * keytool -exportcert -list -v -alias androiddebugkey -keystore ~/.android/debug.keystore
       * Password is “android” ~~(It will change later)~~
