@@ -51,6 +51,7 @@ public class BottomNavigationActivity extends AppCompatActivity implements Botto
         switch (item.getItemId()) {
             case R.id.account:
                 text = R.string.profile;
+
                 break;
             case R.id.share:
                 text = R.string.share;
